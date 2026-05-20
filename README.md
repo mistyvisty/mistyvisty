@@ -20,11 +20,9 @@ Hii i'm Preeti Bhardwaj
 I'm a **Data Analyst and Machine Learning Enthusiast** with hands-on experience building end-to-end analytics projects across **Medical AI, Banking, and Retail** domains.
 
 - 🔬 I love finding the story hidden inside complex datasets
-- 🧠 Passionate about **explainable ML** — SHAP is my favourite tool
+- 🧠 Passionate about *Machine Learning and Data Analysis*
 - 📊 I bridge the gap between raw data and business decisions
 - 🎓 B.Tech in Electronics & Communication Engineering
-- 💼 Previously a **Subject Matter Expert at Chegg India** (500+ problems solved)
-- 🌱 Currently pursuing **Kaggle Python** and **Anthropic AI Fluency** certificates
 - 🚀 Actively looking for **Data Analyst roles** as a Machine Learning Enthusiast
 
 ---
