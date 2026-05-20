@@ -101,11 +101,20 @@ I believe the same curiosity that drives me to explore datasets also drives me t
 
 <div align="center">
 
+---
+
+<div align="center">
+
 *If you find my work interesting, feel free to ⭐ the portfolio repo or reach out — I'd love to connect!*
 
 📧 **bhardwajpreeti357@gmail.com**
+🔗 **[github.com/mistyvisty/Data-Analytics-Portfolio](https://github.com/mistyvisty/Data-Analytics-Portfolio)**
 
 </div>
+
+
+
+
 
 
 - 
