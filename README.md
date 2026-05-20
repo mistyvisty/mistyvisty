@@ -1,16 +1,114 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mistyvisty/mistyvisty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Preeti Bhardwaj 👋
 
-Here are some ideas to get you started:
+### Data Analyst · Machine Learning Enthusiast · NIT Hamirpur Alum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+*Turning messy data into clear decisions — one pipeline at a time.*
+
+[![Portfolio](https://img.shields.io/badge/📂_Portfolio-Data_Analytics-1F4E79?style=for-the-badge)](https://github.com/mistyvisty/Data-Analytics-Portfolio)
+[![Email](https://img.shields.io/badge/📧_Email-bhardwajpreeti357@gmail.com-D44638?style=for-the-badge)](mailto:bhardwajpreeti357@gmail.com)
+
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+Hii i'm Preeti Bhardwaj
+I'm a **Data Analyst and Machine Learning Enthusiast** with hands-on experience building end-to-end analytics projects across **Medical AI, Banking, and Retail** domains.
+
+- 🔬 I love finding the story hidden inside complex datasets
+- 🧠 Passionate about **explainable ML** — SHAP is my favourite tool
+- 📊 I bridge the gap between raw data and business decisions
+- 🎓 B.Tech in Electronics & Communication Engineering
+- 💼 Previously a **Subject Matter Expert at Chegg India** (500+ problems solved)
+- 🌱 Currently pursuing **Kaggle Python** and **Anthropic AI Fluency** certificates
+- 🚀 Actively looking for **Data Analyst roles** as a Machine Learning Enthusiast
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**ML & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-6A0DAD?style=flat-square)
+![SMOTE](https://img.shields.io/badge/SMOTE-ImbLearn-E76F51?style=flat-square)
+
+**Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🩺 PCOS Detection & Risk Prediction
+> Medical AI | Python · XGBoost · SHAP · SMOTE · ImbPipeline · 5-Fold CV
+
+Built an end-to-end ML pipeline on 541 patient records from 10 hospitals. Implemented SMOTE inside ImbPipeline for **zero data leakage**, applied threshold tuning to maximize recall, and used SHAP to explain predictions.
+
+**✅ Result: Random Forest achieved Mean AUC 0.97 across 5 folds — catching 90%+ PCOS patients**
+
+🔗 [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/PCOS_Detection_Medical.ipynb)
+
+---
+
+### 🏦 Bank Customer Churn Prediction
+> Banking | Python · XGBoost · SHAP Beeswarm · ImbPipeline · 5-Fold CV
+
+Analyzed 10,000 customer records to predict churn. Identified Germany as a critical churn market (32.4% rate), removed a leaky feature (Complain, 0.996 correlation), and used SHAP Beeswarm to reveal Age and NumOfProducts as top drivers.
+
+**✅ Result: XGBoost ROC-AUC 0.847 | Recommended Germany-specific retention campaign**
+
+🔗 [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/Bank_Customer_Churn_Prediction.ipynb)
+
+---
+
+### 🛒 Superstore Sales Analysis (SQL + Power BI)
+> Retail | SQLite · 12 SQL Queries · Power BI Dashboard
+
+Wrote 12 business SQL queries on 9,994 retail orders. Discovered $125K in annual losses from high-discount orders using CASE WHEN analysis. Built an interactive Power BI dashboard with KPI cards, region map, and trend charts.
+
+**✅ Result: Recommended capping discounts at 20% to recover $125K annually**
+
+🔗 [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/Superstore_Sales_SQL_Analysis.ipynb)
+
+--
+---
+
+
+I believe the same curiosity that drives me to explore datasets also drives me to explore the world. 🌏
+
+---
+
+<div align="center">
+
+*If you find my work interesting, feel free to ⭐ the portfolio repo or reach out — I'd love to connect!*
+
+📧 **bhardwajpreeti357@gmail.com**
+
+</div>
+
+
 - ⚡ Fun fact: ...
 -->
