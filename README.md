@@ -2,7 +2,7 @@
 
 # Hi, I'm Preeti Bhardwaj 👋
 
-### Data Analyst · Machine Learning Enthusiast · NIT Hamirpur Alum
+### Data Analyst · Machine Learning Enthusiast · 
 
 *Turning messy data into clear decisions — one pipeline at a time.*
 
