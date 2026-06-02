@@ -1,34 +1,33 @@
-
 <div align="center">
 
-# Hi, I'm Preeti Bhardwaj ðŸ‘‹
+# Hi, I'm Preeti Bhardwaj 👋
 
-### Data Analyst Â· Machine Learning Enthusiast Â· 
+### Data Analyst · Machine Learning Enthusiast · 
 
-*Turning messy data into clear decisions â€” one pipeline at a time.*
+*Turning messy data into clear decisions — one pipeline at a time.*
 
-[![Portfolio](https://img.shields.io/badge/ðŸ“‚_Portfolio-mistyvisty.github.io-1F4E79?style=for-the-badge)](https://mistyvisty.github.io)
-[![Email](https://img.shields.io/badge/ðŸ“§_Email-bhardwajpreeti357@gmail.com-D44638?style=for-the-badge)](mailto:bhardwajpreeti357@gmail.com)
+[![Portfolio](https://img.shields.io/badge/📂_Portfolio-mistyvisty.github.io-1F4E79?style=for-the-badge)](https://mistyvisty.github.io)
+[![Email](https://img.shields.io/badge/📧_Email-bhardwajpreeti357@gmail.com-D44638?style=for-the-badge)](mailto:bhardwajpreeti357@gmail.com)
 
 
 </div>
 
 ---
 
-## ðŸ‘©â€ðŸ’» About Me
+## 👩‍💻 About Me
 
 Hii i'm Preeti Bhardwaj
 I'm a **Data Analyst and Machine Learning Enthusiast** with hands-on experience building end-to-end analytics projects across **Medical AI, Banking, and Retail** domains.
 
-- ðŸ”¬ I love finding the story hidden inside complex datasets
-- ðŸ§  Passionate about *Machine Learning and Data Analysis*
-- ðŸ“Š I bridge the gap between raw data and business decisions
-- ðŸŽ“ B.Tech in Electronics & Communication Engineering
-- ðŸš€ Actively looking for **Data Analyst roles** as a Machine Learning Enthusiast
+- 🔬 I love finding the story hidden inside complex datasets
+- 🧠 Passionate about *Machine Learning and Data Analysis*
+- 📊 I bridge the gap between raw data and business decisions
+- 🎓 B.Tech in Electronics & Communication Engineering
+- 🚀 Actively looking for **Data Analyst roles** as a Machine Learning Enthusiast
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -67,73 +66,73 @@ I'm a **Data Analyst and Machine Learning Enthusiast** with hands-on experience 
 
 ---
 
-## ðŸ“‚ Featured Projects
+## 📂 Featured Projects
 
-### ðŸ©º PCOS Detection & Risk Prediction
-> Medical AI | Python Â· XGBoost Â· SHAP Â· SMOTE Â· ImbPipeline Â· 5-Fold CV
+### 🩺 PCOS Detection & Risk Prediction
+> Medical AI | Python · XGBoost · SHAP · SMOTE · ImbPipeline · 5-Fold CV
 
 Built an end-to-end ML pipeline on 541 patient records from 10 hospitals. Implemented SMOTE inside ImbPipeline for **zero data leakage**, applied threshold tuning to maximize recall, and used SHAP to explain predictions.
 
-**âœ… Result: Random Forest achieved Mean AUC 0.97 across 5 folds â€” catching 90%+ PCOS patients**
+**✅ Result: Random Forest achieved Mean AUC 0.97 across 5 folds — catching 90%+ PCOS patients**
 
-ðŸ”— [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/PCOS_Detection_Medical.ipynb)
+🔗 [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/PCOS_Detection_Medical.ipynb)
 
 ---
 
-### ðŸ¦ Bank Customer Churn Prediction
-> Banking | Python Â· XGBoost Â· SHAP Beeswarm Â· ImbPipeline Â· 5-Fold CV
+### 🏦 Bank Customer Churn Prediction
+> Banking | Python · XGBoost · SHAP Beeswarm · ImbPipeline · 5-Fold CV
 
 Analyzed 10,000 customer records to predict churn. Identified Germany as a critical churn market (32.4% rate), removed a leaky feature (Complain, 0.996 correlation), and used SHAP Beeswarm to reveal Age and NumOfProducts as top drivers.
 
-**âœ… Result: XGBoost ROC-AUC 0.847 | Recommended Germany-specific retention campaign**
+**✅ Result: XGBoost ROC-AUC 0.847 | Recommended Germany-specific retention campaign**
 
-ðŸ”— [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/Bank_Customer_Churn_Prediction.ipynb)
+🔗 [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/Bank_Customer_Churn_Prediction.ipynb)
 
 ---
 
-### ðŸ›’ Superstore Sales Analysis (SQL + Power BI)
-> Retail | SQLite Â· 12 SQL Queries Â· Power BI Dashboard
+### 🛒 Superstore Sales Analysis (SQL + Power BI)
+> Retail | SQLite · 12 SQL Queries · Power BI Dashboard
 
 Wrote 12 business SQL queries on 9,994 retail orders. Discovered $125K in annual losses from high-discount orders using CASE WHEN analysis. Built an interactive Power BI dashboard with KPI cards, region map, and trend charts.
 
-**âœ… Result: Recommended capping discounts at 20% to recover $125K annually**
+**✅ Result: Recommended capping discounts at 20% to recover $125K annually**
 
-ðŸ”— [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/Superstore_Sales_SQL_Analysis.ipynb)
+🔗 [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/Superstore_Sales_SQL_Analysis.ipynb)
 
 ---
 
-### ðŸ¤– Medical RAG Assistant â€” PCOS Clinical Literature
-> Medical AI / Generative AI | Python Â· LangChain Â· FAISS Â· HuggingFace Â· Groq (LLaMA 3.1)
+### 🤖 Medical RAG Assistant — PCOS Clinical Literature
+> Medical AI / Generative AI | Python · LangChain · FAISS · HuggingFace · Groq (LLaMA 3.1)
 
 Built a RAG pipeline grounded in real PCOS research papers. Features a hallucination-aware prompt that refuses to answer when context is missing, and provides source citations with page numbers on every answer.
 
-**âœ… Result: Answers clinical PCOS questions with cited evidence from uploaded research papers**
+**✅ Result: Answers clinical PCOS questions with cited evidence from uploaded research papers**
 
-ðŸ”— [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/Medical_RAG_Assistant.ipynb)
-
----
-
-### ðŸ“Š AI CSV Analyst â€” Chat with Your Data
-> Generative AI / Data Analysis | Python Â· Streamlit Â· Groq (LLaMA 3.1) Â· Pandas Â· Matplotlib
-
-Upload any CSV and ask questions in plain English â€” AI generates insights and auto-renders charts. Fully deployed as a live app on Streamlit Cloud, available for anyone to use with their own data.
-
-**âœ… Result: Fully deployed live app â€” anyone can use it with their own CSV**
-
-ðŸ”— [View Repo](https://github.com/mistyvisty/ai_csv_analyst) Â· ðŸš€ [Live Demo](https://preeti-ai-csv-analyst.streamlit.app/)
+🔗 [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/Medical_RAG_Assistant.ipynb)
 
 ---
 
-I believe the same curiosity that drives me to explore datasets also drives me to explore the world. ðŸŒ
+### 📊 AI CSV Analyst — Chat with Your Data
+> Generative AI / Data Analysis | Python · Streamlit · Groq (LLaMA 3.1) · Pandas · Matplotlib
+
+Upload any CSV and ask questions in plain English — AI generates insights and auto-renders charts. Fully deployed as a live app on Streamlit Cloud, available for anyone to use with their own data.
+
+**✅ Result: Fully deployed live app — anyone can use it with their own CSV**
+
+🔗 [View Repo](https://github.com/mistyvisty/ai_csv_analyst) · 🚀 [Live Demo](https://preeti-ai-csv-analyst.streamlit.app/)
+
+---
+
+I believe the same curiosity that drives me to explore datasets also drives me to explore the world. 🌏
 
 ---
 
 <div align="center">
 
-*If you find my work interesting, feel free to â­ the portfolio repo or reach out â€” I'd love to connect!*
+*If you find my work interesting, feel free to ⭐ the portfolio repo or reach out — I'd love to connect!*
 
-ðŸ“§ **bhardwajpreeti357@gmail.com**
-ðŸ”— **[github.com/mistyvisty/Data-Analytics-Portfolio](https://github.com/mistyvisty/Data-Analytics-Portfolio)**
-ðŸŒ **[mistyvisty.github.io](https://mistyvisty.github.io)**
+📧 **bhardwajpreeti357@gmail.com**
+🔗 **[github.com/mistyvisty/Data-Analytics-Portfolio](https://github.com/mistyvisty/Data-Analytics-Portfolio)**
+🌐 **[mistyvisty.github.io](https://mistyvisty.github.io)**
 
 </div>
