@@ -63,6 +63,10 @@ I'm a **Data Analyst and Machine Learning Enthusiast** with hands-on experience 
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -76,6 +80,17 @@ Built an end-to-end ML pipeline on 541 patient records from 10 hospitals. Implem
 **✅ Result: Random Forest achieved Mean AUC 0.97 across 5 folds — catching 90%+ PCOS patients**
 
 🔗 [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/PCOS_Detection_Medical.ipynb)
+
+---
+
+### 🏥 Hospital Readmission Risk Predictor
+> Healthcare AI / MLOps | Python · XGBoost · SMOTE · SHAP · FastAPI · Docker · GitHub Actions CI/CD
+
+End-to-end production ML pipeline predicting 30-day hospital readmission risk on 101,766 patient records (UCI Diabetes 130-US Hospitals dataset). Built with SMOTE inside ImbPipeline, 5-fold cross-validation, precision-recall threshold tuning, and SHAP explainability — fully containerized with Docker and deployed via automated GitHub Actions CI/CD.
+
+**✅ Result: Mean CV AUC 0.581, consistent with published benchmarks (0.64–0.67) for this genuinely hard clinical prediction problem — reported honestly rather than inflated**
+
+🔗 [View Repo](https://github.com/mistyvisty/hospital-readmission-predictor)
 
 ---
 
@@ -98,17 +113,6 @@ Wrote 12 business SQL queries on 9,994 retail orders. Discovered $125K in annual
 **✅ Result: Recommended capping discounts at 20% to recover $125K annually**
 
 🔗 [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/Superstore_Sales_SQL_Analysis.ipynb)
-
----
-
-### 🏥 Hospital Readmission Risk Predictor
-> Healthcare AI / MLOps | Python · XGBoost · SMOTE · SHAP · FastAPI · Docker · GitHub Actions CI/CD
-
-End-to-end production ML pipeline predicting 30-day hospital readmission risk on 101,766 patient records (UCI Diabetes 130-US Hospitals dataset). Built with SMOTE inside ImbPipeline, 5-fold cross-validation, precision-recall threshold tuning, and SHAP explainability — fully containerized with Docker and deployed via automated GitHub Actions CI/CD.
-
-**✅ Result: Mean CV AUC 0.581, consistent with published benchmarks (0.64–0.67) for this genuinely hard clinical prediction problem — reported honestly rather than inflated**
-
-🔗 [View Repo](https://github.com/mistyvisty/hospital-readmission-predictor)
 
 ---
 
