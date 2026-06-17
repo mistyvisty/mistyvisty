@@ -101,6 +101,17 @@ Wrote 12 business SQL queries on 9,994 retail orders. Discovered $125K in annual
 
 ---
 
+### 🏥 Hospital Readmission Risk Predictor
+> Healthcare AI / MLOps | Python · XGBoost · SMOTE · SHAP · FastAPI · Docker · GitHub Actions CI/CD
+
+End-to-end production ML pipeline predicting 30-day hospital readmission risk on 101,766 patient records (UCI Diabetes 130-US Hospitals dataset). Built with SMOTE inside ImbPipeline, 5-fold cross-validation, precision-recall threshold tuning, and SHAP explainability — fully containerized with Docker and deployed via automated GitHub Actions CI/CD.
+
+**✅ Result: Mean CV AUC 0.581, consistent with published benchmarks (0.64–0.67) for this genuinely hard clinical prediction problem — reported honestly rather than inflated**
+
+🔗 [View Repo](https://github.com/mistyvisty/hospital-readmission-predictor)
+
+---
+
 ### 🤖 Medical RAG Assistant — PCOS Clinical Literature
 > Medical AI / Generative AI | Python · LangChain · FAISS · HuggingFace · Groq (LLaMA 3.1)
 
