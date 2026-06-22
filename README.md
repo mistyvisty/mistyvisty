@@ -1,22 +1,16 @@
-<div align="center">
-
 # Hi, I'm Preeti Bhardwaj 👋
 
-### Data Analyst · Machine Learning Enthusiast · 
+### Data Analyst · Machine Learning Enthusiast
 
 *Turning messy data into clear decisions — one pipeline at a time.*
 
-[![Portfolio](https://img.shields.io/badge/📂_Portfolio-mistyvisty.github.io-1F4E79?style=for-the-badge)](https://mistyvisty.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mistyvisty.github.io-1F4E79?style=for-the-badge)](https://mistyvisty.github.io)
 [![Email](https://img.shields.io/badge/📧_Email-bhardwajpreeti357@gmail.com-D44638?style=for-the-badge)](mailto:bhardwajpreeti357@gmail.com)
-
-
-</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hii i'm Preeti Bhardwaj
 I'm a **Data Analyst and Machine Learning Enthusiast** with hands-on experience building end-to-end analytics projects across **Medical AI, Banking, and Retail** domains.
 
 - 🔬 I love finding the story hidden inside complex datasets
@@ -41,14 +35,14 @@ I'm a **Data Analyst and Machine Learning Enthusiast** with hands-on experience 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-6A0DAD?style=flat-square)
-![SMOTE](https://img.shields.io/badge/SMOTE-ImbLearn-E76F51?style=flat-square)
+![SMOTE](https://img.shields.io/badge/SMOTE-ImbalancedLearn-E76F51?style=flat-square)
 
 **GenAI & RAG**
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0066CC?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-LLaMA_3.1-F54F29?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-F54F29?style=flat-square)
 
 **Visualization**
 
@@ -62,7 +56,6 @@ I'm a **Data Analyst and Machine Learning Enthusiast** with hands-on experience 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -71,6 +64,17 @@ I'm a **Data Analyst and Machine Learning Enthusiast** with hands-on experience 
 ---
 
 ## 📂 Featured Projects
+
+### 🧠 PCOS × Neurodivergence — Medical RAG Assistant
+> Medical AI / GenAI | Python · LangChain · FAISS · HuggingFace · Groq (LLaMA 3.3 70B) · ipywidgets
+
+Built a RAG pipeline grounded in **5 peer-reviewed clinical research papers** on the PCOS–neurodivergence connection. Features a hallucination-aware system prompt that **refuses to answer** when the papers don't contain relevant context, and provides author + page-number citations on every response. Interactive Q&A widget runs directly in Colab.
+
+**✅ Result: Answers complex clinical questions with cited, evidence-backed responses — zero hallucination**
+
+🔗 [View Repo](https://github.com/mistyvisty/pcos-neurodivergence-rag)
+
+---
 
 ### 🩺 PCOS Detection & Risk Prediction
 > Medical AI | Python · XGBoost · SHAP · SMOTE · ImbPipeline · 5-Fold CV
@@ -116,17 +120,6 @@ Wrote 12 business SQL queries on 9,994 retail orders. Discovered $125K in annual
 
 ---
 
-### 🤖 Medical RAG Assistant — PCOS Clinical Literature
-> Medical AI / Generative AI | Python · LangChain · FAISS · HuggingFace · Groq (LLaMA 3.1)
-
-Built a RAG pipeline grounded in real PCOS research papers. Features a hallucination-aware prompt that refuses to answer when context is missing, and provides source citations with page numbers on every answer.
-
-**✅ Result: Answers clinical PCOS questions with cited evidence from uploaded research papers**
-
-🔗 [View Notebook](https://github.com/mistyvisty/Data-Analytics-Portfolio/blob/main/Medical_RAG_Assistant.ipynb)
-
----
-
 ### 📊 AI CSV Analyst — Chat with Your Data
 > Generative AI / Data Analysis | Python · Streamlit · Groq (LLaMA 3.1) · Pandas · Matplotlib
 
@@ -142,12 +135,6 @@ I believe the same curiosity that drives me to explore datasets also drives me t
 
 ---
 
-<div align="center">
-
 *If you find my work interesting, feel free to ⭐ the portfolio repo or reach out — I'd love to connect!*
 
-📧 **bhardwajpreeti357@gmail.com**
-🔗 **[github.com/mistyvisty/Data-Analytics-Portfolio](https://github.com/mistyvisty/Data-Analytics-Portfolio)**
-🌐 **[mistyvisty.github.io](https://mistyvisty.github.io)**
-
-</div>
+📧 **bhardwajpreeti357@gmail.com** &nbsp;|&nbsp; 🔗 **[Data Analytics Portfolio](https://github.com/mistyvisty/Data-Analytics-Portfolio)** &nbsp;|&nbsp; 🌐 **[mistyvisty.github.io](https://mistyvisty.github.io)**
