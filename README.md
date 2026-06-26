@@ -67,12 +67,14 @@ A multi-agent AI system that researches any medical topic using three specialize
 
 ---
 
-### 🛡️ Insurance Fraud Detection
-> `Python` `Streamlit`
+### 🛡️ Healthcare Insurance Fraud Detection Dashboard
+> `Python` `PostgreSQL` `Docker` `Streamlit` `Plotly`
 
-A fraud detection app deployed for live use.
+Full-stack fraud detection dashboard analyzing 10,000 healthcare insurance claims using SQL window functions and CTEs, containerized with Docker Compose. Interactive dashboard surfaces fraud by provider specialty, insurance type, state, visit type, and chronic condition, plus a monthly fraud trend and a high-risk claims table.
 
-**🔗 [Live App](https://insurance-fraud-d5ex7mayryye9gjonynmbg.streamlit.app/)**
+**Result: 829 fraud cases out of 10,000 claims (8.29%) · $972,902 fraud gap on $5,728,044 total claimed**
+
+🔗 [Repo](https://github.com/mistyvisty/insurance-fraud) · 🚀 [Live App](https://insurance-fraud-d5ex7mayryye9gjonynmbg.streamlit.app/)
 
 ---
 
