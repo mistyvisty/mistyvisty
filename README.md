@@ -20,7 +20,52 @@ I'm actively looking for roles in **Data Science / GenAI / ML Engineering**.
 
 ---
 
+## 🛠️ Tech Stack
+
+**GenAI & Agentic AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-1C3C3C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0066CC?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-LLaMA-F54F29?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Grounding_%26_Refusal-6A0DAD?style=flat-square)
+
+**ML & Evaluation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-6A0DAD?style=flat-square)
+![SMOTE](https://img.shields.io/badge/SMOTE-ImbalancedLearn-E76F51?style=flat-square)
+
+**Production & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Data & Visualization**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
 ## 🚀 Projects
+
+### 🏥 Medical Research Assistant — Multi-Agent System
+> `Python` `LangGraph` `Groq LLaMA 3.3-70B` `Streamlit` `Docker`
+
+A multi-agent AI system that researches any medical topic using three specialized agents working in sequence: a Researcher agent gathers comprehensive medical information, a Summariser agent converts it into patient-friendly language, and a Fact-Checker agent validates claims and flags anything uncertain. Containerized with Docker and shipped with a clear medical disclaimer — informational only, not a substitute for a doctor.
+
+**Result: Sequential 3-agent pipeline (Research → Summarise → Fact-Check) with built-in claim validation**
+
+🔗 [Repo](https://github.com/mistyvisty/medical-research-agent)
+
+---
 
 ### 🎫 AI Support Triage Agent — Agentic Tool-Calling System
 > `Python` `Groq LLaMA 3.3-70B` `Native Tool-Calling` `FAISS` `MiniLM` `Eval Harness`
@@ -95,44 +140,11 @@ Deployed full-stack copilot that lets non-technical users query raw CSVs in plai
 
 ---
 
-## 🛠️ Tech Stack
-
-**GenAI & Agentic AI**
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0066CC?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-LLaMA-F54F29?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Grounding_%26_Refusal-6A0DAD?style=flat-square)
-
-**ML & Evaluation**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-6A0DAD?style=flat-square)
-![SMOTE](https://img.shields.io/badge/SMOTE-ImbalancedLearn-E76F51?style=flat-square)
-
-**Production & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Data & Visualization**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
----
-
 ## 📝 Latest Writing
 
 - [Why I Built a PCOS Prediction Model — And Why It Was Never Just a Portfolio Project](https://medium.com/@bhardwajpreeti357/why-i-built-a-pcos-prediction-model...)
 - [I Built an AI That Reads Clinical Research Papers and Answers Questions About PCOS and Neurodivergence](https://medium.com/@bhardwajpreeti357/i-built-an-ai-that-reads-clinical-research-papers...)
-  
+
 ---
 
 ## 📚 Currently Studying
