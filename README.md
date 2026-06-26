@@ -63,7 +63,16 @@ A multi-agent AI system that researches any medical topic using three specialize
 
 **Result: Sequential 3-agent pipeline (Research → Summarise → Fact-Check) with built-in claim validation**
 
-🔗 [Repo](https://github.com/mistyvisty/medical-research-agent)
+🔗 [Repo](https://github.com/mistyvisty/medical-research-agent) · 🚀 [Live App](https://medical-research-agent-3mbhgune6spud5lszhhvqs.streamlit.app/)
+
+---
+
+### 🛡️ Insurance Fraud Detection
+> `Python` `Streamlit`
+
+A fraud detection app deployed for live use.
+
+**🔗 [Live App](https://insurance-fraud-d5ex7mayryye9gjonynmbg.streamlit.app/)**
 
 ---
 
@@ -96,7 +105,7 @@ Production-style ML pipeline on 101,766 patient records. Removed target-leaking 
 
 **Result: Mean CV AUC 0.581 — reported honestly, consistent with published benchmarks for this genuinely hard problem**
 
-🔗 [Repo](https://github.com/mistyvisty/hospital-readmission-predictor)
+🔗 [Repo](https://github.com/mistyvisty/hospital-readmission-predictor) · 🚀 [Live App](https://hospital-readmission-bz7hqjeye7fgsppfs3pwqm.streamlit.app/)
 
 ---
 
