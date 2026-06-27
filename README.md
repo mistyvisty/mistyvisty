@@ -153,8 +153,8 @@ Deployed full-stack copilot that lets non-technical users query raw CSVs in plai
 
 ## 📝 Latest Writing
 
-- [Why I Built a PCOS Prediction Model — And Why It Was Never Just a Portfolio Project](https://medium.com/@bhardwajpreeti357/why-i-built-a-pcos-prediction-model...)
-- [I Built an AI That Reads Clinical Research Papers and Answers Questions About PCOS and Neurodivergence](https://medium.com/@bhardwajpreeti357/i-built-an-ai-that-reads-clinical-research-papers...)
+- [Why I Built a PCOS Prediction Model — And Why It Was Never Just a Portfolio Project](https://medium.com/@bhardwajpreeti357/why-i-built-a-pcos-prediction-model-and-why-it-was-never-just-a-portfolio-project-85f64126ed2f)
+- [I Built an AI That Reads Clinical Research Papers and Answers Questions About PCOS and Neurodivergence](https://medium.com/@bhardwajpreeti357/i-built-an-ai-that-reads-clinical-research-papers-and-answers-questions-about-pcos-and-b1f526784409)
 
 ---
 
