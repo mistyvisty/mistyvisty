@@ -1,5 +1,6 @@
 # Hi, I'm Preeti Bhardwaj 👋
 
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mistyvisty.github.io-1F4E79?style=for-the-badge)](https://mistyvisty.github.io)
 [![Medium](https://img.shields.io/badge/Medium-Read_my_writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhardwajpreeti357)
 [![Email](https://img.shields.io/badge/Email-bhardwajpreeti357@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajpreeti357@gmail.com)
@@ -8,11 +9,8 @@
 
 ## About Me
 
-I build production-style ML and GenAI systems — end-to-end pipelines with real engineering decisions baked in.
-
-My work has a consistent thread: **responsible AI**. Every system I build has an explicit answer to "what happens when the model is wrong?" — whether that's a SMOTE pipeline that can't leak into validation folds, a RAG assistant that refuses to answer when context is missing, or an agentic triage system that hard-codes escalation rules for high-stakes decisions instead of leaving them to probabilistic judgment.
-
-I'm actively looking for roles in **Data Science / GenAI / ML Engineering**.
+🎓 currently learning and seeking roles in Data Science / GenAI / ML Engineering  
+🔨 Built production-style systems from scratch — RAG, agents, fine-tuning, MLOps  
 
 ---
 
@@ -45,6 +43,12 @@ I'm actively looking for roles in **Data Science / GenAI / ML Engineering**.
 ![PEFT](https://img.shields.io/badge/PEFT-LoRA_%26_Adapters-7C3AED?style=flat-square)
 ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-4bit_Quantisation-FF6B6B?style=flat-square)
+
+**Deep Learning**
+
+![CNN](https://img.shields.io/badge/CNN-Custom_Architecture-EE4C2C?style=flat-square)
+![ResNet](https://img.shields.io/badge/ResNet--18-Transfer_Learning-EE4C2C?style=flat-square)
+![GradCAM](https://img.shields.io/badge/Grad--CAM-Explainability-6A0DAD?style=flat-square)
 
 **Production & MLOps**
 
@@ -86,7 +90,7 @@ Three specialized agents working in sequence — Researcher → Summariser → F
 #### 🎫 AI Support Triage Agent — Agentic Tool-Calling System
 > `Groq LLaMA 3.3-70B` `Native Tool-Calling` `FAISS` `MiniLM` `Eval Harness`
 
-Routes support tickets across three actions — draft, escalate, clarify — using native function-calling, not freeform text parsing. Hard-coded policy rules override model judgment for security/legal tickets. Built a labeled eval harness measuring routing accuracy separately from hard-trigger escalation recall.
+Routes support tickets across three actions — draft, escalate, clarify — using native function-calling, not freeform text parsing. Hard-coded policy rules override model judgment for security/legal tickets. Built a labeled eval harness measuring routing accuracy separately from escalation recall.
 
 **Result: 100% escalation recall on security/legal tickets · Overall routing accuracy 57.1% with documented diagnosis**
 
@@ -164,6 +168,21 @@ Full-stack fraud detection on 10,000 insurance claims using SQL window functions
 
 ---
 
+### 🖼️ Deep Learning & Computer Vision
+
+---
+
+#### 🛒 Amazon Catalog Quality Gate — CNN + Transfer Learning
+> `PyTorch` `ResNet-18` `Grad-CAM` `Google Colab T4`
+
+Automated image validation pipeline classifying e-commerce product photos as High / Low quality. Built a custom 3-layer CNN from scratch, then upgraded to ResNet-18 transfer learning. Grad-CAM heatmaps confirm the model attends to fabric texture on high-quality images — not shortcuts.
+
+**Result: CNN 99.1% · ResNet-18 99.9% · Grad-CAM validates learned features**
+
+🔗 [Repo](https://github.com/mistyvisty/amazon-catalog-quality-gate)
+
+---
+
 ### 📊 Data Science & Machine Learning
 
 ---
@@ -182,7 +201,7 @@ ML pipeline on 541 records from 10 hospitals. Engineered `Total_follicles` featu
 #### 🏦 Bank Customer Churn Prediction
 > `XGBoost` `SHAP Beeswarm` `ImbPipeline` `5-Fold CV`
 
-Caught a target-leaking feature (`Complain` — 0.996 correlation with churn, but only knowable after the customer already churned). Removed it. SHAP Beeswarm surfaces Age and NumOfProducts as real predictors. Identified Germany as highest-risk market.
+Caught a target-leaking feature (`Complain` — 0.996 correlation with churn, only knowable after the customer already churned). Removed it. SHAP Beeswarm surfaces Age and NumOfProducts as real predictors. Identified Germany as highest-risk market.
 
 **Result: XGBoost ROC-AUC 0.847 · Recommended Germany-specific retention strategy**
 
@@ -214,10 +233,8 @@ Caught a target-leaking feature (`Complain` — 0.996 correlation with churn, bu
 
 ## 📚 Currently Studying
 
-Live reading notes on ML/GenAI interview prep — updated as I study:
-
 - 📖 [Notion Live Notes](https://spiral-game-e5b.notion.site/ML-Interview-Prep-Live-Reading-Notes-566ee8267299463b90dbe8c04434e496) — Chip Huyen's ML Interviews Book + Grokking ML
-  
+
 
 ---
 
