@@ -3,6 +3,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mistyvisty.github.io-1F4E79?style=for-the-badge)](https://mistyvisty.github.io)
 [![Medium](https://img.shields.io/badge/Medium-Read_my_writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhardwajpreeti357)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mistyvisty/competitions)
 [![Email](https://img.shields.io/badge/Email-bhardwajpreeti357@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajpreeti357@gmail.com)
 
 ---
@@ -84,6 +85,7 @@ Three specialized agents working in sequence — Researcher → Summariser → F
 **Result: Sequential 3-agent pipeline with built-in claim validation**
 
 🔗 [Repo](https://github.com/mistyvisty/medical-research-agent) · 🚀 [Live App](https://medical-research-agent-3mbhgune6spud5lszhhvqs.streamlit.app/)
+📝 [Why I Stopped Using Single LLM Calls and Built a 3-Agent Medical Research Pipeline with LangGraph](https://medium.com/@bhardwajpreeti357/why-i-stopped-using-single-llm-calls-and-built-a-3-agent-medical-research-pipeline-with-langgraph-713fecf660b1) · 📝 [LangChain vs LangGraph: When to Use Chains vs Graphs](https://medium.com/@bhardwajpreeti357/langchain-vs-langgraph-when-to-use-chains-vs-graphs-️-a5ed6f887615)
 
 ---
 
@@ -119,6 +121,7 @@ Upgraded RAG pipeline with Pinecone vector store, BM25 sparse retrieval, Recipro
 **Result: Hybrid search + reranking measurably outperforms dense-only retrieval**
 
 🔗 [Repo](https://github.com/mistyvisty/pcos-neurodivergence-advanced-rag-pinecone)
+📝 [I Built an AI That Reads Clinical Research Papers and Answers Questions About PCOS and Neurodivergence](https://medium.com/@bhardwajpreeti357/i-built-an-ai-that-reads-clinical-research-papers-and-answers-questions-about-pcos-and-b1f526784409)
 
 ---
 
@@ -129,7 +132,7 @@ RAG pipeline grounded in peer-reviewed clinical papers on PCOS and neurodivergen
 
 **Result: Answers complex clinical questions with source citations, refuses when grounding is absent**
 
-🔗 [Repo](https://github.com/mistyvisty/pcos-neurodivergence-rag) · 📝 [Medium](https://medium.com/@bhardwajpreeti357/i-built-an-ai-that-reads-clinical-research-papers-and-answers-questions-about-pcos-and-b1f526784409)
+🔗 [Repo](https://github.com/mistyvisty/pcos-neurodivergence-rag)
 
 ---
 
@@ -154,6 +157,7 @@ Production ML pipeline on 101,766 patient records with live monitoring layer. Re
 **Result: Mean CV AUC 0.581 — reported honestly, consistent with published benchmarks for this genuinely hard problem**
 
 🔗 [Repo](https://github.com/mistyvisty/hospital-readmission-predictor) · 🚀 [Live App](https://hospital-readmission-bz7hqjeye7fgsppfs3pwqm.streamlit.app/)
+📝 [Stop Ending at model.predict()](https://medium.com/@bhardwajpreeti357/stop-ending-at-model-predict-b7ee3c0ee20e)
 
 ---
 
@@ -165,6 +169,7 @@ Full-stack fraud detection on 10,000 insurance claims using SQL window functions
 **Result: 829 fraud cases (8.29%) · $972,902 fraud gap identified on $5,728,044 total claimed**
 
 🔗 [Repo](https://github.com/mistyvisty/insurance-fraud) · 🚀 [Live App](https://insurance-fraud-d5ex7mayryye9gjonynmbg.streamlit.app/)
+📝 [I Ran SQL Window Functions on 10,000 Insurance Claims — Then Had to Learn That Shipping Is Harder](https://medium.com/@bhardwajpreeti357/i-ran-sql-window-functions-on-10-000-insurance-claims-then-had-to-learn-that-shipping-is-harder-4ba15f4bf962)
 
 ---
 
@@ -195,6 +200,7 @@ ML pipeline on 541 records from 10 hospitals. Engineered `Total_follicles` featu
 **Result: Random Forest Mean AUC 0.973 · Recall 91.4% at tuned threshold**
 
 🔗 [Repo](https://github.com/mistyvisty/PCOS_Detection_Medical)
+📝 [Why I Built a PCOS Prediction Model — And Why It Was Never Just a Portfolio Project](https://medium.com/@bhardwajpreeti357/why-i-built-a-pcos-prediction-model-and-why-it-was-never-just-a-portfolio-project-85f64126ed2f)
 
 ---
 
@@ -226,6 +232,10 @@ Caught a target-leaking feature (`Complain` — 0.996 correlation with churn, on
 
 ## 📝 Latest Writing
 
+- [LangChain vs LangGraph: When to Use Chains vs Graphs](https://medium.com/@bhardwajpreeti357/langchain-vs-langgraph-when-to-use-chains-vs-graphs-️-a5ed6f887615)
+- [Why I Stopped Using Single LLM Calls and Built a 3-Agent Medical Research Pipeline with LangGraph](https://medium.com/@bhardwajpreeti357/why-i-stopped-using-single-llm-calls-and-built-a-3-agent-medical-research-pipeline-with-langgraph-713fecf660b1)
+- [Stop Ending at model.predict()](https://medium.com/@bhardwajpreeti357/stop-ending-at-model-predict-b7ee3c0ee20e)
+- [I Ran SQL Window Functions on 10,000 Insurance Claims — Then Had to Learn That Shipping Is Harder](https://medium.com/@bhardwajpreeti357/i-ran-sql-window-functions-on-10-000-insurance-claims-then-had-to-learn-that-shipping-is-harder-4ba15f4bf962)
 - [Why I Built a PCOS Prediction Model — And Why It Was Never Just a Portfolio Project](https://medium.com/@bhardwajpreeti357/why-i-built-a-pcos-prediction-model-and-why-it-was-never-just-a-portfolio-project-85f64126ed2f)
 - [I Built an AI That Reads Clinical Research Papers and Answers Questions About PCOS and Neurodivergence](https://medium.com/@bhardwajpreeti357/i-built-an-ai-that-reads-clinical-research-papers-and-answers-questions-about-pcos-and-b1f526784409)
 
@@ -234,7 +244,6 @@ Caught a target-leaking feature (`Complain` — 0.996 correlation with churn, on
 ## 📚 Currently Studying
 
 - 📖 [Notion Live Notes](https://spiral-game-e5b.notion.site/ML-Interview-Prep-Live-Reading-Notes-566ee8267299463b90dbe8c04434e496) — Chip Huyen's ML Interviews Book + Grokking ML
-
 
 ---
 
