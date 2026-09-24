@@ -114,7 +114,7 @@ Three specialized agents working in sequence — Researcher → Summariser → F
 
 **Result: Every answer passes through a dedicated Fact-Checker agent that flags uncertain claims before the user sees them**
 
-🔗 [Repo](https://github.com/mistyvisty/medical-research-agent) · 🚀 [Live App](https://medical-research-agent-3mbhgune6spud5lszhhvqs.streamlit.app/) *(free tier — if the app is asleep, click wake up and wait ~30s)*
+🔗 [Repo](https://github.com/mistyvisty/medical-research-agent) · 🚀 [Live App](https://medical-research-agent-3mbhgune6spud5lszhhvqs.streamlit.app/) *(if the app is asleep, click wake up and wait ~30s)*
 📝 [Why I Stopped Using Single LLM Calls and Built a 3-Agent Medical Research Pipeline with LangGraph](https://medium.com/@bhardwajpreeti357/why-i-stopped-using-single-llm-calls-and-built-a-3-agent-medical-research-pipeline-with-langgraph-713fecf660b1) · 📝 [LangChain vs LangGraph: When to Use Chains vs Graphs](https://medium.com/@bhardwajpreeti357/langchain-vs-langgraph-when-to-use-chains-vs-graphs--a5ed6f887615)
 
 ---
