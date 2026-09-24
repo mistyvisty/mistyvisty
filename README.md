@@ -23,15 +23,15 @@
 
 **Software Developer** 
 
-Full-stack development on production, owning features from local development through to live deployment.
+Full-stack development of production Websites, owning features from local development through deployment and maintenance.
 
-- **Backend engineering:** write custom PHP business logic using WordPress hooks/filters, custom post types and structured content models (ACF)
-- **Databases:** query and modify production MySQL/MariaDB data directly, including safely editing serialized data during content migrations
-- **Deployment pipeline:** run releases across local → dev → live environments, including database export/import and environment-wide URL migration
-- **Production debugging:** find root causes of live issues from server error logs, and fix email/SMTP delivery failures that affected customer contact forms
-- **Linux & servers:** work on Ubuntu with Apache, and automate tasks with CLI tools and PHP scripts that bootstrap the application
-- **Frontend:** build responsive, cross-browser interfaces with HTML5, CSS3 and vanilla JavaScript (scroll animations, sliders, mobile navigation)
-- **Testing:** check rendering and behaviour with Chrome DevTools and headless Chrome, and troubleshoot cache and cross-browser issues
+- **Backend:** Develop custom PHP business logic using WordPress hooks/filters, custom post types and ACF-based content models
+- **Databases:** Query and modify production MySQL/MariaDB databases, including safe handling of serialized data during migrations
+- **Deployment:** Manage releases across local → development → production environments, including database migrations and environment-wide URL changes
+- **Production debugging:** Investigate server logs to resolve live issues, including email/SMTP failures affecting customer contact forms
+- **Linux & servers:** Work on Ubuntu/Apache and automate setup and maintenance tasks with CLI tools and PHP scripts
+- **Frontend & testing:** Build responsive, cross-browser interfaces with HTML5, CSS3 and vanilla JavaScript, and validate rendering and caching with Chrome DevTools and headless Chrome
+
 
 
 ## 🛠️ Tech Stack
