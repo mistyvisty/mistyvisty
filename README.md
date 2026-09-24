@@ -19,20 +19,6 @@
   
 
 ---
-## 💼 Professional Experience
-
-**Software Developer** 
-
-Full-stack development of production Websites, owning features from local development through deployment and maintenance.
-
-- **Backend:** Develop custom PHP business logic using WordPress hooks/filters, custom post types and ACF-based content models
-- **Databases:** Query and modify production MySQL/MariaDB databases, including safe handling of serialized data during migrations
-- **Deployment:** Manage releases across local → development → production environments, including database migrations and environment-wide URL changes
-- **Production debugging:** Investigate server logs to resolve live issues, including email/SMTP failures affecting customer contact forms
-- **Linux & servers:** Work on Ubuntu/Apache and automate setup and maintenance tasks with CLI tools and PHP scripts
-- **Frontend & testing:** Build responsive, cross-browser interfaces with HTML5, CSS3 and vanilla JavaScript, and validate rendering and caching with Chrome DevTools and headless Chrome
-
-
 
 ## 🛠️ Tech Stack
 
