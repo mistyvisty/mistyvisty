@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" role="img" aria-label="A cat chasing a bouncing ball">
+  <title>A cat chasing a bouncing ball</title>
+  <style>
+    .run    { animation: run 8s linear infinite; }
+    .ballrun{ animation: ballrun 8s linear infinite; }
+    .bounce { animation: bounce .8s cubic-bezier(.5,0,.5,1) infinite; }
+    .spin   { animation: spin .8s linear infinite; transform-box: fill-box; transform-origin: center; }
+    .bob    { animation: bob .3s ease-in-out infinite alternate; }
+    .tail   { animation: wag .6s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: 100% 100%; }
+    .leg    { transform-box: fill-box; transform-origin: 50% 0%; }
+    .legA   { animation: legA .3s ease-in-out infinite alternate; }
+    .legB   { animation: legB .3s ease-in-out infinite alternate; }
+    @keyframes run     { from { transform: translateX(-160px); } to { transform: translateX(840px); } }
+    @keyframes ballrun { from { transform: translateX(20px); }   to { transform: translateX(1020px); } }
+    @keyframes bounce  { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-45px); } }
+    @keyframes spin    { to { transform: rotate(360deg); } }
+    @keyframes bob     { from { transform: translateY(0); } to { transform: translateY(-3px); } }
+    @keyframes wag     { from { transform: rotate(-12deg); } to { transform: rotate(14deg); } }
+    @keyframes legA    { from { transform: rotate(28deg); } to { transform: rotate(-28deg); } }
+    @keyframes legB    { from { transform: rotate(-28deg); } to { transform: rotate(28deg); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g fill="#0d1117" stroke="#e6edf3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="0" y1="138" x2="800" y2="138"/>
+
+    <g class="ballrun">
+      <g class="bounce">
+        <g transform="translate(0 124)">
+          <g class="spin">
+            <circle r="13"/>
+            <path d="M-11 -6 Q0 0 11 -6 M-11 5 Q0 11 11 5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="run">
+      <g transform="translate(0 92)">
+        <rect class="leg legB" x="-30" y="10" width="10" height="28" rx="5"/>
+        <rect class="leg legA" x="18"  y="10" width="10" height="28" rx="5"/>
+        <g class="bob">
+          <path class="tail" d="M-40 -2 C-64 -6 -70 -34 -55 -44" fill="none" stroke-width="7"/>
+          <path class="tail" d="M-40 -2 C-64 -6 -70 -34 -55 -44" fill="none" stroke="#0d1117" stroke-width="2.5"/>
+          <ellipse cx="0" cy="3" rx="42" ry="23"/>
+          <g transform="translate(44 -19)">
+            <path d="M-16 -10 L-12 -33 L2 -17 Z"/>
+            <path d="M4 -17 L18 -33 L19 -8 Z"/>
+            <circle r="22"/>
+            <circle cx="-5" cy="-3" r="3.2" fill="#e6edf3" stroke="none"/>
+            <circle cx="10" cy="-3" r="3.2" fill="#e6edf3" stroke="none"/>
+            <path d="M1.5 5 l4 0 -2 2.5 z" fill="#e6edf3"/>
+            <path d="M3.5 7.5 q-2.5 4 -5 1.5 M3.5 7.5 q2.5 4 5 1.5" fill="none" stroke-width="1.6"/>
+            <path d="M14 5 l12 -2 M14 9 l12 2 M-8 5 l-12 -2 M-8 9 l-12 2" fill="none" stroke-width="1.4"/>
+          </g>
+        </g>
+        <rect class="leg legA" x="-17" y="12" width="10" height="28" rx="5"/>
+        <rect class="leg legB" x="30"  y="12" width="10" height="28" rx="5"/>
+      </g>
+    </g>
+  </g>
+</svg>
