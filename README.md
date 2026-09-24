@@ -10,10 +10,31 @@
 
 ## About Me
 
-🎓 currently learning and seeking roles in Data Science / GenAI / ML Engineering  
-🔨 Built production-style systems from scratch — RAG, agents, fine-tuning, MLOps  
+## About Me
+
+💼 **Software Developer** by day — building and shipping full-stack web apps with PHP, WordPress, Drupal & MySQL  
+🤖 **GenAI builder** by passion — multi-agent systems, RAG pipelines, QLoRA fine-tuning and ML monitoring, deployed as live apps  
+🩺 Drawn to **healthcare AI** — most of my projects tackle real medical problems like PCOS, hospital readmission and insurance fraud  
+📏 I report **honest metrics**, even when they're not flattering, and I always check for data leakage before trusting a result  
+✍️ I write about what I build on [Medium](https://medium.com/@bhardwajpreeti357)  
+🎯 Working toward **GenAI / ML Engineer** roles  
+  
 
 ---
+## 💼 Professional Experience
+
+**Software Developer** 
+
+Full-stack development on production, owning features from local development through to live deployment.
+
+- **Backend engineering:** write custom PHP business logic using WordPress hooks/filters, custom post types and structured content models (ACF)
+- **Databases:** query and modify production MySQL/MariaDB data directly, including safely editing serialized data during content migrations
+- **Deployment pipeline:** run releases across local → dev → live environments, including database export/import and environment-wide URL migration
+- **Production debugging:** find root causes of live issues from server error logs, and fix email/SMTP delivery failures that affected customer contact forms
+- **Linux & servers:** work on Ubuntu with Apache, and automate tasks with CLI tools and PHP scripts that bootstrap the application
+- **Frontend:** build responsive, cross-browser interfaces with HTML5, CSS3 and vanilla JavaScript (scroll animations, sliders, mobile navigation)
+- **Testing:** check rendering and behaviour with Chrome DevTools and headless Chrome, and troubleshoot cache and cross-browser issues
+
 
 ## 🛠️ Tech Stack
 
