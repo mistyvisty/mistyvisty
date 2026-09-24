@@ -1,9 +1,11 @@
 # Hi, I'm Preeti Bhardwaj 👋
 
 
-<p align="center">
-  <img src="cat-chasing-yarn.svg" alt="A cute cat chasing a bouncing ball of yarn" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cat-dark.svg">
+  <img src="cat-light.svg" alt="A cat chasing a bouncing ball" width="100%">
+</picture>
+
 
 
 
