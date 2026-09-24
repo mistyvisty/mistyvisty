@@ -1,6 +1,12 @@
 # Hi, I'm Preeti Bhardwaj 👋
 
 
+<p align="center">
+  <img src="cat-chasing-yarn.svg" alt="A cute cat chasing a bouncing ball of yarn" width="100%">
+</p>
+
+
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mistyvisty.github.io-1F4E79?style=for-the-badge)](https://mistyvisty.github.io)
 [![Medium](https://img.shields.io/badge/Medium-Read_my_writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhardwajpreeti357)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mistyvisty/competitions)
