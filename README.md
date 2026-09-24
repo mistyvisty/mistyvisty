@@ -10,8 +10,6 @@
 
 ## About Me
 
-## About Me
-
 💼 **Software Developer** by day — building and shipping full-stack web apps with PHP, WordPress, Drupal & MySQL  
 🤖 **GenAI builder** by passion — multi-agent systems, RAG pipelines, QLoRA fine-tuning and ML monitoring, deployed as live apps  
 🩺 Drawn to **healthcare AI** — most of my projects tackle real medical problems like PCOS, hospital readmission and insurance fraud  
