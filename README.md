@@ -126,7 +126,7 @@ Routes support tickets across three actions — draft, escalate, clarify — usi
 
 **Result: 100% escalation recall on security/legal tickets · 57.1% overall routing accuracy, with errors diagnosed and documented in the repo**
 
-🔗 [Repo](https://github.com/mistyvisty/support-triage-agent)
+🔗 [Repo](https://github.com/mistyvisty/support-triage-agent) 🔗 **[Live demo →](https://support-triage-agent-3rdpekkbtyma2bhjafya9z.streamlit.app/)** 
 
 ---
 
