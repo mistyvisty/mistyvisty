@@ -15,8 +15,8 @@
 ## About Me
 
 💼 **Software Developer** by day — building and shipping full-stack web apps with PHP, WordPress, Drupal & MySQL  
-🤖 **GenAI builder** by passion — multi-agent systems, RAG pipelines, tool-calling agents with eval harnesses, QLoRA fine-tuning and ML monitoring, deployed as live apps  
-🩺 Drawn to **healthcare AI** — most of my projects tackle real medical problems like PCOS, hospital readmission and insurance fraud  
+🤖 **GenAI builder** — multi-agent systems, RAG pipelines, tool-calling agents with eval harnesses, QLoRA fine-tuning and ML monitoring, deployed as live apps  
+🤖 **AI / ML engineer in the making**: multi-agent systems, RAG pipelines, tool-calling agents with eval harnesses, QLoRA fine-tuning and ML monitoring 
 📏 I report **honest metrics**, even when they're not flattering, and I always check for data leakage before trusting a result  
 ✍️ I write about what I build on [Medium](https://medium.com/@bhardwajpreeti357)  
 🎯 Working toward **GenAI / ML Engineer** roles  
