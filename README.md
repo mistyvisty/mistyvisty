@@ -126,7 +126,11 @@ Routes support tickets across three actions — draft, escalate, clarify — usi
 
 **Result: 100% escalation recall on security/legal tickets · 57.1% overall routing accuracy, with errors diagnosed and documented in the repo**
 
-🔗 [Repo](https://github.com/mistyvisty/support-triage-agent) 🔗 **[Live demo →](https://support-triage-agent-3rdpekkbtyma2bhjafya9z.streamlit.app/)** 
+🔗 [Repo](https://github.com/mistyvisty/support-triage-agent) 🔗 **[Live demo →](https://support-triage-agent-3rdpekkbtyma2bhjafya9z.streamlit.app/)**  
+## Write-ups
+- [Part 1 — I Built an AI Agent That Knows When Not to Answer](https://medium.com/@bhardwajpreeti357/i-built-an-ai-agent-that-knows-when-not-to-answer-%EF%B8%8F-804776968ff9)
+- [Part 2 — How I Improved My AI Agent's Ticket Routing Accuracy from 57% to 86%](https://medium.com/@bhardwajpreeti357/how-i-improved-my-ai-agents-ticket-routing-accuracy-from-57-to-86-part-2-27d87f5b9d16)
+
 
 ---
 
